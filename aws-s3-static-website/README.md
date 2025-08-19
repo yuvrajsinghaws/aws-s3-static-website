@@ -24,7 +24,7 @@ This project demonstrates hosting a static portfolio website on AWS S3 with publ
 5. Optional: Configure CloudFront for faster delivery
 
 ## Screenshot
-(Add screenshot in docs/ folder)
+![website screenshot](docs/Screenshort)
 
 ## Learning Outcomes
 - Learned S3 static website hosting
